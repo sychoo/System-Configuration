@@ -1,0 +1,32 @@
+{
+    // suppress extension recommendations
+    "extensions.ignoreRecommendations": true,
+    // enable powermode effects
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.comboTimeout": 5,
+    "powermode.enableShake": false,
+    "powermode.backgroundMode": "mask",
+    // ruler for preventing program wrapping
+    "editor.rulers": [
+        80
+    ],
+    // set vscode theme
+    "workbench.colorTheme": "One Monokai Darker",
+    "window.zoomLevel": 0,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.cursorStyle": "line",
+    "terminal.integrated.cursorStyle": "line",
+    "C_Cpp.updateChannel": "Insiders",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.associations": {
+        "*.wyv": "wyvern"
+    },
+    "[wyvern]": {},
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+}
