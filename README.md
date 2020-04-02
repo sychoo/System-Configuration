@@ -1,2 +1,5 @@
 # configurations
-Configurations
+
+- ## Unix Configuration
+  - Shell
+    - [Oh](https://ohmyz.sh/) 
